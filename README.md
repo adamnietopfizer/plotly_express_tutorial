@@ -15,6 +15,6 @@ Some of these datasets were modified but originated from Kaggle.
 
 * [stroke.csv](https://www.kaggle.com/asaumya/healthcare-dataset-stroke-data#train_2v.csv)
 
-* `chapstick_and_comp.csv` was a modified version of the plotly_express election datset. 
+* `chapstick_and_comp.csv` was a modified version of the Plotly Express election datset. 
 
 
